@@ -11,10 +11,12 @@ A simple, responsive To-Do List application . Users can add and remove tasks. Bu
 - Fully responsive layout
 
 ## Project Structure
+```bash
 project/
 ├── index.html
 ├── styles.css
 └── main.js
+```
 ## Getting Started
 
 ### 1. Clone the Repository
